@@ -1,7 +1,3 @@
-Got it! Here's a broader **README** that reflects the full scope of evaluation methods beyond fairness and retrieval.  
-
----
-
 # LLM-TrustLens  
 
 **Comprehensive Evaluation Framework for LLM Trustworthiness**  
